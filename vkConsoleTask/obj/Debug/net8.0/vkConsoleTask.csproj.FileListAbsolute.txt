@@ -1,0 +1,14 @@
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\bin\Debug\net8.0\vkConsoleTask.exe
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\bin\Debug\net8.0\vkConsoleTask.deps.json
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\bin\Debug\net8.0\vkConsoleTask.runtimeconfig.json
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\bin\Debug\net8.0\vkConsoleTask.dll
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\bin\Debug\net8.0\vkConsoleTask.pdb
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\obj\Debug\net8.0\vkConsoleTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\obj\Debug\net8.0\vkConsoleTask.AssemblyInfoInputs.cache
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\obj\Debug\net8.0\vkConsoleTask.AssemblyInfo.cs
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\obj\Debug\net8.0\vkConsoleTask.csproj.CoreCompileInputs.cache
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\obj\Debug\net8.0\vkConsoleTask.dll
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\obj\Debug\net8.0\refint\vkConsoleTask.dll
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\obj\Debug\net8.0\vkConsoleTask.pdb
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\obj\Debug\net8.0\vkConsoleTask.genruntimeconfig.cache
+D:\Proga\RiderProjects\vkConsoleTask\vkConsoleTask\vkConsoleTask\obj\Debug\net8.0\ref\vkConsoleTask.dll
